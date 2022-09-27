@@ -11,13 +11,13 @@ with team. Interested in learning new technologies and algorithms.</h3>
 
 - 🌱 I’m currently learning **Spring.**
 
-- 👨‍💻 My projects [https://rajnish-portfolio-zabaione-cf70e3.netlify.app](https://rajnish-portfolio-zabaione-cf70e3.netlify.app)
+- 👨‍Portfolio [https://rajnish-portfolio-zabaione-cf70e3.netlify.app](https://rajnish-portfolio-zabaione-cf70e3.netlify.app)
 
 - 💬 Ask me about **Java, Mysql, Hibernate.**
 
 - 📫 Contact me **rajnish0147r@gmail.com**
 
-- 📄 My Resume [https://drive.google.com/file/d/1VDcPPW0Iwv-Qq10eub-goZwd2sIqs2ir/view?usp=sharing](https://drive.google.com/file/d/1VDcPPW0Iwv-Qq10eub-goZwd2sIqs2ir/view?usp=sharing)
+- 📄Resume [https://drive.google.com/file/d/1VDcPPW0Iwv-Qq10eub-goZwd2sIqs2ir/view?usp=sharing](https://drive.google.com/file/d/1VDcPPW0Iwv-Qq10eub-goZwd2sIqs2ir/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
