@@ -11,7 +11,7 @@ with team. Interested in learning new technologies and algorithms.</h3>
 
 - 🌱 I’m currently learning **Spring.**
 
-- 👨‍Portfolio [https://rajnish-portfolio-zabaione-cf70e3.netlify.app](https://rajnish-portfolio-zabaione-cf70e3.netlify.app)
+- 👨‍Portfolio [https://rajnish-portfolio.netlify.app/](https://rajnish-portfolio.netlify.app/)
 
 - 💬 Ask me about **Java, Mysql, Hibernate.**
 
