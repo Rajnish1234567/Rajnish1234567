@@ -19,7 +19,7 @@ Passionate about building scalable backend systems, optimizing databases, and so
 
 - 🔭 Currently building **scalable backend systems**
 - 🌱 Exploring **Distributed Systems, System Design & Cloud Architecture**
-- 💬 Ask me about **Java, Spring Boot, Hibernate, Redis, MySQL, Multitenancy**
+- 💬 Ask me about **Java, Spring Boot, Hibernate, Redis, Docker, Kafka, MySQL, Multitenancy**
 - ⚡ Strong in **DSA, Backend Optimization & API Design**
 - 🎯 Focused on becoming a **high-impact Backend Engineer**
 
@@ -31,7 +31,7 @@ Passionate about building scalable backend systems, optimizing databases, and so
   **https://rajnish-portfolio.netlify.app/**
 
 - 📄 Resume:  
-  **https://drive.google.com/file/d/1VDcPPW0Iwv-Qq10eub-goZwd2sIqs2ir/view**
+  **https://drive.google.com/file/d/1VSDn8_DR0gs61LmRwK2J0kUzlb1rVc4k/view?usp=sharing**
 
 - 📫 Reach me at:  
   **rajnish0147r@gmail.com**
