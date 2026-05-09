@@ -38,59 +38,86 @@ Passionate about building scalable backend systems, optimizing databases, and so
 
 ---
 
+### 🛠 Tech Stack
+
+### Backend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,maven" />
+</p>
+
+- **Core:** Java, Spring Boot, Spring Security  
+- **ORM & Persistence:** Hibernate, JPA  
+- **Communication:** REST APIs, gRPC  
+- **Architecture:** Microservices, Multi-tenancy  
+
+---
+
+### Distributed Systems & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=redis,kafka,docker" />
+</p>
+
+- Redis (Caching)
+- Kafka / RabbitMQ
+- API Gateway
+- Docker
+
+---
+
+### Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+- MySQL
+- PostgreSQL
+- MongoDB
+
+---
+
+### Tools & Monitoring
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,postman" />
+</p>
+
+- Maven
+- Git
+- Postman
+- Log4j
+- SLF4J
+
+---
+
+### Frontend (Supporting)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css" />
+</p>
+
+- Angular
+- TypeScript
+- JavaScript
+- HTML / CSS
+
+---
+
 ### 🤝 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/rajnishkumarbackenddeveloper/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-
-<a href="https://stackoverflow.com/users/19720986/rajnish-kumar" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" />
-</a>
-
-<a href="https://www.hackerrank.com/fw18_1244" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
-</a>
-
-<a href="https://leetcode.com/rajnish0147r/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-</a>
-</p>
-
----
-
-### 🛠 Tech Stack
-
-#### Backend
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,hibernate" />
-</p>
-
-#### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=angular,html,css,javascript" />
-</p>
-
-#### Tools & Cloud
-<p>
-<img src="https://skillicons.dev/icons?i=aws,git,postman,docker" />
-</p>
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rajnish1234567&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajnish1234567&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajnish1234567&layout=compact&theme=tokyonight" />
+  <a href="https://www.linkedin.com/in/rajnishkumarbackenddeveloper/" target="_blank" style="margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://stackoverflow.com/users/19720986/rajnish-kumar" target="_blank" style="margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://www.hackerrank.com/fw18_1244" target="_blank" style="margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://leetcode.com/rajnish0147r/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ---
