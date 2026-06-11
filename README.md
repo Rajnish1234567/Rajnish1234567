@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="100%" src="https://relaxed-kulfi-13f381.netlify.app/xyz.jpg">
+<img align="center" alt="coding" width="100%" src="https://relaxed-kulfi-13f381.netlify.app/xyz.jpg](https://drive.google.com/file/d/1HQuB3rRALqCpxY4OOueNelbb9PY7nS5b/view?usp=drive_link">
 
 <h1 align="center">Hi 👋, I'm Rajnish Kumar</h1>
 <h3 align="center">Backend Engineer | Java | Spring Boot | System Design | Scalable Distributed Systems</h3>
